@@ -1,0 +1,14 @@
+.row {
+	width: auto;
+	height: 15px;
+	background: #313131;
+}
+.square {
+	width: 15px;
+	height: 15px;
+	margin: 0px;
+	outline: 1px solid;
+	display: inline-block;
+	float: left;
+	background: #FFFFFF;
+}
